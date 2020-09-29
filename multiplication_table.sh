@@ -2,7 +2,7 @@
 
 if [ $# -eq 0 ] # test if input supplied
 then 
-    echo "variable must be supplied as positive natural number"
+    echo "variable must be supplied as natural number"
     exit 1
 fi
 
